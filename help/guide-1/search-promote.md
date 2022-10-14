@@ -1,29 +1,29 @@
 ---
-title: "[!DNL Adobe Search&Promote] Meddelande om tjänstslut"
-description: Läs mer om [!DNL Adobe Search&Promote] Meddelande om att tjänsten har upphört.
+title: "[!DNL Adobe Search&Promote] Meddelande om upphörande av tjänst"
+description: Läs mer om [!DNL Adobe Search&Promote] Meddelandet om upphörande av tjänsten.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '179'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# [!DNL Adobe Search&Promote] Tillkännagivande vid avslut
+# [!DNL Adobe Search&Promote] Meddelande om upphörande av tjänst
 
-## Frågor och svar om tjänstens upphörande för [!DNL Search&Promote]
+## Vanliga frågor och svar om upphörande av tjänst för [!DNL Search&Promote]
 
-### **_På vilket datum [!DNL Search&Promote] upphör med sin verksamhet?_**
+### **_Vilket datum upphör [!DNL Search&Promote] att fungera?_**
 
-Slutservice för [!DNL Adobe Search&Promote] är schemalagd för **1 september 2022**. På det datumet [!DNL Search&Promote] det administrativa användargränssnittet kommer inte längre att vara tillgängligt, och förfrågningar till [!DNL Search&Promote] API:er ger inte längre resultat. Före detta datum kommer tjänsten att vara helt tillgänglig och fungera. I väntan på den 1 september 2022, avtalsenliga rättigheter för [!DNL Search&Promote] kommer inte att tillåtas efter den 31 augusti 2022.
+Upphörande av tjänsten för [!DNL Adobe Search&Promote] är schemalagd till **1 september 2022**. Från och med det datumet är det administrativa användargränssnittet [!DNL Search&Promote] inte längre tillgängligt, och förfrågningar om API:er för [!DNL Search&Promote] ger inte längre resultat. Före detta datum är tjänsten fullt tillgänglig och fungerande. Inför den 1 september 2022 tillåts avtalsrättigheter till [!DNL Search&Promote] inte efter den 31 augusti 2022.
 
 ### **_Vad händer om en sökning eller annan API-begäran görs i [!DNL Search&Promote]?_**
 
-Sök och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Förfrågningar kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
+Sökning och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Begäranden kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
 
-### **_Har Adobe alternativa alternativ för webbplatssökning och e-handelssökning?_**
+### **_Har Adobe alternativa lösningar för webbplatssökning och handelssökning?_**
 
-Ja. För produkt- och e-handelssökning [Livesökning från [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) är sökprogrammet för Adobe framåt.
+Ja. [Realtidssökning från [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) är Adobes sökprogram för produkt- och handelssökning framöver.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
@@ -33,4 +33,4 @@ Ja. För produkt- och e-handelssökning [Livesökning från [!DNL Adobe Commerce
 
 ### **_Vem kan jag kontakta för att få veta mer?_**
 
-Kontakta er Customer Success Manager (CSM) med frågor eller kontakta Adobe team på [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
+Kontakta din CSM (Customer Success Manager) med frågor eller kontakta Adobes team på [searchquestions@adobe.com](mailto:searchquestions@adobe.com).
