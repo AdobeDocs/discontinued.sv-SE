@@ -1,16 +1,16 @@
 ---
 source-git-commit: 9415588f8d42414d8d9deade1a59a7cdb55a2940
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '170'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 # MIT-licens
 
-© Copyright 2021 Adobe. all rights reserved.
+© Copyright 2021 Adobe. All Rights Reserved.
 
-Härmed beviljas alla som erhåller en kopia av denna programvara och tillhörande dokumentationsfiler (&quot;Programvaran&quot;) rätt att handla i Programvaran utan begränsning, inklusive utan begränsning rätten att använda, kopiera, modifiera, slå samman, publicera, distribuera, underlicensiera och/eller sälja kopior av Programvaran, samt att ge personer som Programvaran tillhandahålls rätt att göra detta, på följande villkor:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &quot;Software&quot;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-Ovannämnda meddelande om upphovsrätt och detta tillståndsmeddelande ska finnas med i alla exemplar eller väsentliga delar av Programvaran.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-PROGRAMVARAN TILLHANDAHÅLLS &quot;I BEFINTLIGT SKICK&quot; UTAN GARANTI AV NÅGON TYP, UTTRYCKLIG ELLER UNDERFÖRSTÅDD, INKLUSIVE MEN INTE BEGRÄNSAD TILL GARANTIER FÖR SÄLJBARHET, LÄMPLIGHET FÖR ETT VISST ÄNDAMÅL OCH ICKE-ÖVERTRÄDELSE. FÖRFATTARNA ELLER UPPHOVSRÄTTSINNEHAVARNA FÅR INTE I NÅGOT FALL ANSVARA FÖR ANSPRÅK, SKADOR ELLER ANDRA ANSVAR, OAVSETT OM DET ÄR EN AVTALSAVTAL, TORTERING ELLER ANNAT, SOM UPPSTÅR FRÅN, UTANFÖR ELLER I SAMBAND MED PROGRAMVARAN ELLER ANVÄNDNINGEN ELLER ANDRA I PROGRAMVARAN.
+THE SOFTWARE IS PROVIDED &quot;AS IS&quot;, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
