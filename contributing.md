@@ -1,8 +1,8 @@
 ---
 source-git-commit: eb20d5194b79b713249ae97556c67c926cc4356d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '294'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 # Bidra
@@ -19,7 +19,7 @@ förväntas du upprätthålla denna kod. Du rapporterar oacceptabla beteenden ti
 
 ## Dokumentation för användarhandboken för bidragsgivare
 
-Se [Användarhandboken för bidragsgivare](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
+Se [Användarhandboken för bidragsgivare](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html?lang=sv).
 
 ## Har du en fråga?
 
