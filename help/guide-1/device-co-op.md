@@ -3,10 +3,10 @@ keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-o
 title: "[!DNL Device Co-op] Vanliga frågor och svar om slutet av livscykeln"
 description: Läs mer om planerna för slutet av livscykeln för Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
-workflow-type: ht
-source-wordcount: '1085'
-ht-degree: 100%
+source-git-commit: 180dd414dd0b595518f54cddc5b02ed06ecc0b16
+workflow-type: tm+mt
+source-wordcount: '1138'
+ht-degree: 95%
 
 ---
 
@@ -101,3 +101,8 @@ Andra funktioner är inte obligatoriska. Det rekommenderas endast om du vill for
 ## Hur lång tid tar antagandet?
 
 Detta beror på funktionen. Antagandet tar tid, till exempel om en Analytics Ultimate-kund använder Enhetsövergripande analys med [!DNL Device Co-op] och måste migrera till Privat enhetsgrafik i realtid eller Fältbaserad sammanfogning.
+
+## Vad händer med [!UICONTROL Folk] mätvärden?
+
+Med borttagningen av [!DNL Device Co-op], [!UICONTROL Folk] mätvärden är inte längre relevanta. Inom den närmaste framtiden (datum TBD) kommer vi att ta bort [!UICONTROL Folk] mätvärden. Då kommer vi att omdirigera data till [!UICONTROL Unik besökare] Mätvärden i Analytics för att förhindra att projekt, segment och beräknade mätvärden bryts.
+
