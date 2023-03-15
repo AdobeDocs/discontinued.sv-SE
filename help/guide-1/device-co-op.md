@@ -1,16 +1,16 @@
 ---
 keywords: adobe experience cloud;Adobe Experience Cloud;device co-op;Device Co-op;slutet av livscykeln
-title: ”[!DNL Device Co-op] Vanliga frågor och svar om slutet av livscykeln”
+title: ”Vanliga frågor och svar om slutet av livscykeln för [!DNL Device Co-op]”
 description: Läs mer om planerna för slutet av livscykeln för Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '1134'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
-# [!DNL Device Co-op] Vanliga frågor och svar om slutet av livscykeln
+# Vanliga frågor och svar om slutet av livscykeln för [!DNL Device Co-op]
 
 Det här dokumentet innehåller svar på vanliga frågor om planen för slutet av livscykeln (EOL) för [!DNL Adobe Experience Cloud Device Co-op]. När denna plan träder i kraft lämnar Adobe ett förhandsmeddelande i [Versionsinformationen för Experience Cloud](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=sv) och den [Prioriterade produktuppdateringen](https://www.adobe.com/se/subscription/priority-product-update.html).
 
@@ -104,5 +104,5 @@ Detta beror på funktionen. Antagandet tar tid, till exempel om en Analytics Ult
 
 ## Vad händer med mätvärdet [!UICONTROL Folk]?
 
-Avvecklingen av [!DNL Device Co-op] gör att mätvärdet [!UICONTROL Folk] inte längre är relevant. Den 8 maj 2023 ska vi ta bort [!UICONTROL Folk] mätvärden. Vi omdirigerar då data till mätvärdet [!UICONTROL Unik besökare] i Analytics för att förhindra att projekt, segment och beräknade mätvärden bryts.
+Avvecklingen av [!DNL Device Co-op] gör att mätvärdet [!UICONTROL Folk] inte längre är relevant. Den 8 maj 2023 tar vi bort mätvärdet [!UICONTROL Folk]. Vi omdirigerar då data till mätvärdet [!UICONTROL Unik besökare] i Analytics för att förhindra att projekt, segment och beräknade mätvärden bryts.
 
