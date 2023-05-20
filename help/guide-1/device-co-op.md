@@ -4,7 +4,7 @@ title: ”Vanliga frågor och svar om slutet av livscykeln för [!DNL Device Co-
 description: Läs mer om planerna för slutet av livscykeln för Device Co-op.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
 source-git-commit: 4138a53d2aec43caba319de302593ed9ece36c38
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '1134'
 ht-degree: 100%
 
