@@ -1,46 +1,46 @@
 ---
-title: Adobe Mobile Services - frågor och svar
-description: Få svar på vanliga frågor om lanseringen av Adobe Mobile Services.
+title: Frågor och svar om slutet av livscykeln för Mobila Adobe-tjänster
+description: Få svar på vanliga frågor om meddelandet om slutet av livscykeln för Mobila Adobe-tjänster.
 exl-id: c5f44341-7b87-4530-b86e-17e2911a7959
 source-git-commit: 343e0a727c570c9eec503d7903d0477134fc6189
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '421'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Adobe Mobile Services - frågor och svar
+# Frågor och svar om slutet av livscykeln för Mobila Adobe-tjänster
 
-Adobe Mobile-tjänstens utgångsdatum var **31 december 2022**.
+Slutet av livscykeln för Mobila Adobe-tjänster var **31 december 2022**.
 
 ## Vad händer?
 
-Mobiltjänster upphörde den 31 december 2022. Mobiltjänster, som har stöd för ett mobilorienterat gränssnitt, förvärv, djuplänkning, meddelanden i appen, push-meddelanden och geopositionering, stöds inte längre efter detta datum.
+Mobila tjänster upphörde den 31 december 2022. Mobila tjänster, som har stöd för ett mobilorienterat gränssnitt, förvärv, djuplänkning, meddelanden i appen, push-meddelanden och geopositionering, stöds inte längre efter detta datum.
 
 ## Vad ingår och vad ingår inte?
 
-Detta gäller endast Adobe Mobile Services, den fristående plattformen på [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). SDK:n för mobilversion 4 som använder det här gränssnittet upphörde den 31 augusti 2021.
+Slutet av livscykeln gäller endast Mobila Adobe-tjänster, den fristående plattformen på [mobilemarketing.adobe.com](https://mobilemarketing.adobe.com). SDK:n för den mobila versionen 4 som använder det här gränssnittet upphörde den 31 augusti 2021.
 
-Den här sista livscykeln innehåller INTE Adobe Analytics för mobilappar, som ingår i Adobe Experience Platform Mobile SDK:er. Dessa funktioner, som bland annat beteenden i appen, livscykelanalys, uppföljning av meddelandeinteraktion och målgruppsprofiler, får fortsatt stöd från Adobe.
+Slutet av livscykeln innefattar INTE Adobe Analytics för mobilappar, som ingår i Adobe Experience Platforms Mobila SDK:er. Dessa funktioner, som bland annat beteenden i appen, livscykelanalys, uppföljning av meddelandeinteraktion och målgruppsprofiler, får fortsatt stöd från Adobe.
 
 ## Varför upphör funktionen?
 
-I takt med att Adobe fortsätter att utöka sina funktioner för mobilmarknadsföring kommer funktioner som tidigare fanns i Mobiltjänster att lanseras i Adobe Experience Cloud-lösningar eller erbjudas via Adobe Exchange Premier Partners. Den här övergången ger er kraftfullare och flexiblare funktioner för mobilmarknadsföring.
+I takt med att Adobe fortsätter att utöka sina funktioner för mobilmarknadsföring kommer funktioner som tidigare fanns i Mobila tjänster att lanseras i Adobe Experience Cloud-lösningar eller erbjudas via Adobe Exchange Premier Partners. Den här övergången ger dig kraftfullare och flexiblare funktioner för mobilmarknadsföring.
 
-## Vad händer med befintliga bearbetningsregler som skapats i Mobile Services?
+## Vad händer med befintliga bearbetningsregler som skapats i Mobila tjänster?
 
-[Bearbetar regler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html) som har skapats eller genererats i gränssnittet för mobila tjänster migreras automatiskt till Adobe Analytics innan Mobile Services-tjänstens slutdatum infaller. Flyttade bearbetningsregler fungerar på samma sätt som andra bearbetningsregler i Adobe Analytics, där du fritt kan visa eller redigera dem. Ingen användaråtgärd krävs för den här migreringen.
+[Bearbetade regler](https://experienceleague.adobe.com/docs/analytics/admin/admin-tools/processing-rules/processing-rules.html?lang=sv) som har skapats eller genererats i gränssnittet Mobila tjänster migreras automatiskt till Adobe Analytics innan datumet för slutet av livscykeln för Mobila tjänster. Migrerade bearbetningsregler fungerar på samma sätt som andra bearbetningsregler i Adobe Analytics, där du fritt kan visa eller redigera dem. Ingen användaråtgärd krävs för den här migreringen.
 
-När Mobile Services är solnedgång hanteras all bearbetningsregellogik exklusivt inom Adobe Analytics, vanligtvis med användning av [Sammanhangsdatavariabler](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html).
+När Mobila tjänster har tagits ur bruk hanteras all bearbetningsregellogik exklusivt inom Adobe Analytics, vanligtvis med användning av [Sammanhangsdatavariabler](https://experienceleague.adobe.com/docs/analytics/implementation/vars/page-vars/contextdata.html?lang=sv).
 
 ## Vilka övergångsalternativ finns?
 
 Adobe erbjuder tre övergångsvägar beroende på hur din organisation använder dem.
 
-1. **Meddelanden och push-meddelanden i appen**: Adobe kan överföra dina arbetsflöden för meddelanden till Adobe Journey Optimizer. Produkten hjälper organisationer att optimera och personalisera upplevelser under hela kundresan, inklusive mobilmeddelanden.
-1. **Förvärv och djuplänkning**: Förvärv och djuplänkning erbjuds via programmet Adobe Exchange Premier Partners. Adobe partnerskap kan ta fram lämpliga introduktioner för att säkerställa att ni hittar den lösning som passar era behov bäst.
-1. **Platstjänst**: Platstjänsten erbjuder kostnadsfria geografiska platser. Se [Platstjänstdokumentation](https://experienceleague.adobe.com/docs/places/using/home.html).
+1. **Meddelanden och push-meddelanden i appen**: Adobe kan överföra dina arbetsflöden för meddelanden till Adobe Journey Optimizer. Produkten hjälper organisationer att optimera och personanpassa upplevelser under hela kundresan, inklusive mobila meddelanden.
+1. **Förvärv och djuplänkning**: förvärv och djuplänkning erbjuds via programmet Adobe Exchange Premier Partners. Adobes partnerskapsteam kan ta fram lämpliga introduktioner för att säkerställa att du hittar den lösning som passar dina behov bäst.
+1. **Platstjänst**: platstjänsten erbjuder kostnadsfria geolokaliseringsfunktioner. Se [Dokumentationen för Platstjänsten](https://experienceleague.adobe.com/docs/places/using/home.html?lang=sv).
 
-## Var kan jag gå om jag har frågor?
+## Var hittar jag svar på mina frågor?
 
-Se [Adobe Mobile Services - sista sidan i livscykeln Spark](https://spark.adobe.com/page/C6D30y09zaRpD/) för mer information. Kontakta din Adobe-representant om du har ytterligare frågor.
+Se [Spark Page för slutet av livscykeln för Adobe Mobile Services](https://spark.adobe.com/page/C6D30y09zaRpD/) för mer information. Kontakta din Adobe-representant om du har ytterligare frågor.
