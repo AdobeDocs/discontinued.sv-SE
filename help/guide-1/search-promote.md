@@ -2,10 +2,10 @@
 title: "[!DNL Adobe Search&Promote] Meddelande om upphörande av tjänst"
 description: Läs mer om [!DNL Adobe Search&Promote] Meddelandet om upphörande av tjänsten.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
-source-git-commit: 8089325de90b03d573df28483428c2b82d221cd4
+source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
 workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 100%
+source-wordcount: '156'
+ht-degree: 67%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 100%
 
 ## Vanliga frågor och svar om upphörande av tjänst för [!DNL Search&Promote]
 
-### **_Vilket datum upphör [!DNL Search&Promote] att fungera?_**
+### **_På vilket datum [!DNL Search&Promote] upphör med sin verksamhet?_**
 
-Upphörande av tjänsten för [!DNL Adobe Search&Promote] är schemalagd till **1 september 2022**. Från och med det datumet är det administrativa användargränssnittet [!DNL Search&Promote] inte längre tillgängligt, och förfrågningar om API:er för [!DNL Search&Promote] ger inte längre resultat. Före detta datum är tjänsten fullt tillgänglig och fungerande. Inför den 1 september 2022 tillåts avtalsrättigheter till [!DNL Search&Promote] inte efter den 31 augusti 2022.
+Slutservice för [!DNL Adobe Search&Promote] schemalagdes för **1 september 2022**. På det datumet är [!DNL Search&Promote] det administrativa användargränssnittet var inte längre tillgängligt, och förfrågningar till [!DNL Search&Promote] API:er ger inte längre resultat.
 
 ### **_Vad händer om en sökning eller annan API-begäran görs i [!DNL Search&Promote]?_**
 
-Sökning och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Begäranden kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
+Sök och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Begäranden kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
 
 ### **_Har Adobe alternativa lösningar för webbplatssökning och handelssökning?_**
 
-Ja. [Realtidssökning från [!DNL Adobe Commerce]](https://devdocs.magento.com/live-search/overview.html) är Adobes sökprogram för produkt- och handelssökning framöver.
+Ja. [Realtidssökning från [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) är Adobes sökprogram för produkt- och handelssökning framöver.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
