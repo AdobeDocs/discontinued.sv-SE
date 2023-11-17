@@ -3,9 +3,9 @@ title: "[!DNL Adobe Search&Promote] Meddelande om upphörande av tjänst"
 description: Läs mer om [!DNL Adobe Search&Promote] Meddelandet om upphörande av tjänsten.
 exl-id: 1e062554-090b-4275-8595-8ae4233c58d7
 source-git-commit: d9284331dedc7534dbcaf6eb1b44a7506af5baa0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '156'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
@@ -13,17 +13,17 @@ ht-degree: 67%
 
 ## Vanliga frågor och svar om upphörande av tjänst för [!DNL Search&Promote]
 
-### **_På vilket datum [!DNL Search&Promote] upphör med sin verksamhet?_**
+### **_Vilket datum upphörde [!DNL Search&Promote] att fungera?_**
 
-Slutservice för [!DNL Adobe Search&Promote] schemalagdes för **1 september 2022**. På det datumet är [!DNL Search&Promote] det administrativa användargränssnittet var inte längre tillgängligt, och förfrågningar till [!DNL Search&Promote] API:er ger inte längre resultat.
+Upphörande av tjänsten för [!DNL Adobe Search&Promote] var schemalagd till **1 september 2022**. Från och med det datumet är det [!DNL Search&Promote] administrativa användargränssnittet inte längre tillgängligt, och förfrågningar om API:er för [!DNL Search&Promote] ger inte längre resultat.
 
 ### **_Vad händer om en sökning eller annan API-begäran görs i [!DNL Search&Promote]?_**
 
-Sök och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Begäranden kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
+Sökning och andra API-begäranden som görs till [!DNL Search&Promote] returnerar inte längre resultat. Begäranden kan resultera i ett fel av typen &quot;Värden hittades inte&quot;, en 3xx HTTP-omdirigering eller ett HTTP-fel som 404, 408 eller annan HTTP-felkod.
 
 ### **_Har Adobe alternativa lösningar för webbplatssökning och handelssökning?_**
 
-Ja. [Realtidssökning från [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=en) är Adobes sökprogram för produkt- och handelssökning framöver.
+Ja. [Realtidssökning från [!DNL Adobe Commerce]](https://experienceleague.adobe.com/docs/commerce-merchant-services/live-search/guide-overview.html?lang=sv) är Adobes sökprogram för produkt- och handelssökning framöver.
 
 <!-- ### **_Can Adobe recommend any frameworks or platforms that offer features similar to Search&Promote?_**
 
