@@ -2,9 +2,9 @@
 title: Översikt över utgående  [!DNL Adobe Experience Cloud] -produkter
 description: Översikt över produkter som har gått ut, tagits ur bruk eller nått slutet av livscykeln för  [!DNL Adobe Experience Cloud]  och  [!DNL Adobe Experience Platform]
 exl-id: 4841f7b3-993b-4406-81b1-3fb3fbbff453
-source-git-commit: f13d308f4a29992bbaf3c5f84b2fa4da8c047cfd
+source-git-commit: 55fd2cc6ba04830e11d87730b5a8921f5f0fb6dd
 workflow-type: ht
-source-wordcount: '130'
+source-wordcount: '112'
 ht-degree: 100%
 
 ---
@@ -16,6 +16,7 @@ Adobe upphör ibland med försäljningen, utvecklingen av eller stödet för en 
 ## Lista över utgående produkter
 
 * [[!DNL Device Co-op]](device-co-op.md)
+* [[!DNL Data Workbench]](data-workbench.md)
 * [[!DNL Experience Platform Auditor]](auditor.md)
 * [[!DNL Livefyre]](livefyre.md)
 * [[!DNL Mobile Services]](https://experienceleague.adobe.com/docs/mobile-services/using/eol.html?lang=sv){target="_blank"}
