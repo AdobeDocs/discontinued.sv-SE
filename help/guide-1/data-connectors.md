@@ -11,19 +11,19 @@ ht-degree: 0%
 
 # Slutet av livscykeln för integreringar med Adobe Data Connectors
 
-**19 augusti 2021**, har Adobe upphört med Data Connectors integrering och ersatt den med [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobe avser att göra övergången så smidig som möjligt för kunder och partners.
+**Från och med den 19 augusti 2021** har Adobe upphört med Data Connectors-integreringar och ersatt den med [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product). Adobe avser att göra övergången så smidig som möjligt för kunder och partners.
 
 Adobe Analytics syftar till att tillhandahålla högklassig webb- och marknadsföringsanalys som uppfyller kundernas behov. I takt med att de tekniska och affärsmässiga behoven utvecklas strävar Adobe efter att kontinuerligt leverera och uppfylla de högsta standarderna. De API:er som driver Data Connectors-integreringar uppfyller inte längre dessa standarder och kan inte användas i Adobe moderna teknikinfrastruktur.
 
-Observera att detta meddelande inte gäller Adobe Source Connectors, som är en datainsamlingsfunktion i Adobe Experience Platform. Adobe Source Connectors, som ibland kallas Adobe Data Connectors, stöds fullt ut av Adobe.
+Observera att detta meddelande inte gäller Adobe Source Connectors, som är en datainsamlingsfunktion inom Adobe Experience Platform. Adobe Source Connectors, som ibland kallas Adobe Data Connectors, stöds fullt ut av Adobe.
 
 ## Varför slutade Adobe den här funktionen?
 
-Den här funktionen drivs av äldre teknik som inte längre är användbar eller stöds. The [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) är nu den plats där du kan hitta aktuella integreringar för lösningar från Adobe.
+Den här funktionen drivs av äldre teknik som inte längre är användbar eller stöds. [Adobe Exchange Marketplace](https://exchange.adobe.com/experiencecloud.analytics.html#product) är nu den plats där du kan hitta aktuella integreringar för Adobe-lösningar.
 
 ## Hur påverkar borttagningen av den här funktionen dig?
 
-Om du är Adobe-partner finns information om hur du migrerar din integration till programmet Adobe Exchange på [Adobe Technology Partner Program Support Center](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003867071-Adobe-Analytics-Integration-Tools).
+Om du är Adobe-partner hittar du information om hur du migrerar din integrering till Adobe Exchange-programmet på [Adobe Technology Partner Program Support Center](https://adobeexchangeec.zendesk.com/hc/en-us/articles/360003867071-Adobe-Analytics-Integration-Tools).
 
 Om du är Data Connector-kund och vill begära att den integrering du använder ska migreras, ska du skicka alla begäranden direkt till integreringspartnern. Partnern måste åta sig att gå över till de nya API:erna. Adobe kundtjänst kan inte tvinga partners att gå över till de nya API:erna. Varje företag som erbjuder en integrering fick möjlighet att migrera sin integrering till Adobe Exchange eller avbryta integreringen.
 

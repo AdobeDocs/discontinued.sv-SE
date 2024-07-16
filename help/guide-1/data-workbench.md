@@ -1,5 +1,5 @@
 ---
-title: '''[!DNL Data Workbench] livstidsslut'
+title: '''[!DNL Data Workbench]''-slut'
 description: Det här dokumentet innehåller vanliga frågor och svar om slutet av livscykeln för [!DNL Data Workbench].
 exl-id: 88a2c977-2c21-4bf8-9d58-24cb1ea2a075
 source-git-commit: d8a954bf197c87d3ef705bdf8bc67b9810c2502b

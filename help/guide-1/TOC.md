@@ -1,7 +1,7 @@
 ---
-user-guide-title: Avbrutna produkter för [!DNL Adobe Experience Cloud]
+user-guide-title: Avbrutna produkter för  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Utgående produkter
-user-guide-description: Lista över avbrutna produkter för [!DNL Adobe Experience Cloud].
+user-guide-description: Lista över avslutade produkter för  [!DNL Adobe Experience Cloud].
 source-git-commit: bc0872ad51eb6e4f8a589dee625145909b6a5a63
 workflow-type: tm+mt
 source-wordcount: '32'
