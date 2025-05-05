@@ -50,7 +50,7 @@ Följande program påverkas av förfarandena för slutet av livscykel för [!DNL
 
 - [[!DNL Adobe Analytics]](https://experienceleague.adobe.com/docs/analytics.html?lang=sv)
 - [[!DNL Adobe Audience Manager]](https://experienceleague.adobe.com/docs/audience-manager/user-guide/overview/aam-overview.html?lang=sv)
-- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=en)
+- [[!DNL Adobe Advertising]](https://experienceleague.adobe.com/docs/advertising.html?lang=sv-SE)
 - [[!DNL Adobe Target]](https://experienceleague.adobe.com/docs/target/using/introduction/intro.html?lang=sv)
 
 ## Vilka alternativ har jag som alternativ till [!DNL Device Co-op]?
