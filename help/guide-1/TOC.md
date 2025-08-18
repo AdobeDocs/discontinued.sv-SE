@@ -2,10 +2,10 @@
 user-guide-title: Avbrutna produkter för  [!DNL Adobe Experience Cloud]
 breadcrumb-title: Utgående produkter
 user-guide-description: Lista över avslutade produkter för  [!DNL Adobe Experience Cloud].
-source-git-commit: 9ef7d52223c952376e47da8ef21738b7e4ea1056
+source-git-commit: 2ee8e27d36986904dce92a33a161aefcf9ce94c1
 workflow-type: tm+mt
-source-wordcount: '38'
-ht-degree: 50%
+source-wordcount: '41'
+ht-degree: 46%
 
 ---
 
@@ -25,3 +25,4 @@ ht-degree: 50%
 + [Search&amp;Promote](search-promote.md)
 + [Social](social.md)
 + [Dolt test](hidden-test.md)
++ [Dolt test 1.1](hidden-test-1.1.md)
